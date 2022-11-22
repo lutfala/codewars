@@ -1,4 +1,12 @@
-// Fix the function
-// I created this function to add five to any number that was passed in to it and return the new value. It doesn't throw any errors but it returns the wrong number.
+// ?Description:
+// Make a simple function called greet that returns the most-famous "hello world!".
 
-// Can you help me fix the function?
+// Style Points
+// Sure, this is about as easy as it gets. But how clever can you be to create the most creative hello world you can think of? What is a "hello world" solution you would want to show your friends?
+
+// FUNDAMENTALS
+
+// Write a function "greet" that returns "hello world!"
+function greet(){
+    return 'hello world!'
+  }
